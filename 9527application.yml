@@ -1,11 +1,4 @@
 server:
   port: 9527
 
-spring:
-  application:
-    name: cloud-gateway
-  cloud:
-    gateway:
-      discovery:
-        locator:
-   
+
